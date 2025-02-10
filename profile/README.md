@@ -4,6 +4,8 @@
 
 A comprehensive ecosystem focused on anime discovery, personalized recommendations, and advanced search capabilities. Built with modern web technologies, it delivers a seamless experience for users while providing an efficient admin panel for content management. Automated data importers support the administration by ensuring accurate and up-to-date information, while the platform's API enables fast and scalable access to anime data. With a strong emphasis on usability and engagement, aims to be the go-to resource for exploring and analyzing anime content.
 
+![image](https://github.com/user-attachments/assets/6f8681c5-289a-443b-bfcd-e273f2f1e4a3)
+
 **APP**
 - [anime-app-next](https://github.com/necodeo/anime-app-next)
 
