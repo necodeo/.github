@@ -17,4 +17,4 @@
 - [crunchyroll-importer-go](https://github.com/necodeo/crunchyroll-importer-go)
 
 **WEB SCRAPERS**
-- [mal-scraper](https://github.com/necodeo/mal-scraper) (go)
+- [mal-scraper](https://github.com/necodeo/mal-scraper) (go package)
